@@ -1,2 +1,5 @@
 # HALLO-WORLD
-Tset
+
+Hi Humans
+
+Horst here, first experience with GIT
